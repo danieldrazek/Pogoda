@@ -1,7 +1,7 @@
 
 package pogoda;
 
-public class Pogoda {
+public class Weather {
 
     public static void main(String[] args) {
         
