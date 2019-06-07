@@ -1,4 +1,6 @@
-
+/*
+ * Napisz program, który wyświetli trzy różne zdania opisujące aktualną pogodę. W czwartej linii wypisz sumaryczną długość trzech poprzednich zdań.
+ */
 package pogoda;
 
 public class Weather {
